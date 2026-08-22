@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://listowelplumbing.ca/sitemap-index.xml
