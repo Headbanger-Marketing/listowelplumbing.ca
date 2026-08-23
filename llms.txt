@@ -1,2 +1,25 @@
 # Listowel Plumbing
-HVAC services in Ontario.
+
+> Listowel Plumbing is a local HVAC company serving Listowel, Perth, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 291-3562  |  Email: contact@listowelplumbing.ca  |  Website: https://listowelplumbing.ca
+
+## Key pages
+
+- [Home](https://listowelplumbing.ca/): Listowel Plumbing homepage with service overview and FAQ
+- [About](https://listowelplumbing.ca/about/): About the company and service area
+- [Contact](https://listowelplumbing.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://listowelplumbing.ca/services/water-heaters/): Water Heaters in Listowel, Ontario
+- [Drain Cleaning](https://listowelplumbing.ca/services/drain-cleaning/): Drain Cleaning in Listowel, Ontario
+- [Repiping](https://listowelplumbing.ca/services/repiping/): Repiping in Listowel, Ontario
+- [Fixtures & Toilets](https://listowelplumbing.ca/services/fixtures-toilets/): Fixtures & Toilets in Listowel, Ontario
+- [Leak Detection & Repair](https://listowelplumbing.ca/services/leak-detection/): Leak Detection & Repair in Listowel, Ontario
+- [Sump Pumps & Backwater](https://listowelplumbing.ca/services/sump-pumps/): Sump Pumps & Backwater in Listowel, Ontario
+- [Water Softeners & Filtration](https://listowelplumbing.ca/services/water-softeners/): Water Softeners & Filtration in Listowel, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Listowel are answered on the homepage.
